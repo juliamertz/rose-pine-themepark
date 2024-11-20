@@ -12,7 +12,7 @@
   --button-text: var(--text);
   --button-text-hover: var(--text-hover);
 
-  --accent-color: 196, 167, 231; /* iris */
+  --accent-color: 196, 167, 231;
   --accent-color-hover: rgb(var(--accent-color), 0.8);
   --link-color: var(--text);
   --link-color-hover: #eb6f92;
@@ -20,7 +20,7 @@
 
   --text: #e0def4;
   --text-hover: var(--text);
-  --text-muted: a6adc8;
+  --text-muted: 6e6a86;
 
   /* Specials */
   --arr-queue-color: #9ccfd8; /* Servarr apps + Bazarr */
@@ -30,5 +30,5 @@
   --overseerr-gradient: linear-gradient(
     var(--main-bg-color),
     var(--main-bg-color)
-  ); /* Make sure this is compatible with whatever takes in the gradient */
+  );
 }
