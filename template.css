@@ -5,17 +5,17 @@
   --modal-header-color: $base;
   --modal-footer-color: $base;
 
-  --drop-down-menu-bg: $overlay;
+  --drop-down-menu-bg: $highlightLow;
 
-  --button-color: $overlay;
-  --button-color-hover: $highlightMed;
+  --button-color: $highlightMed;
+  --button-color-hover: $highlightHigh;
   --button-text: var(--text);
   --button-text-hover: var(--text-hover);
 
-  --accent-color: $iris:rgb;
-  --accent-color-hover: rgb(var(--accent-color), 0.8);
-  --link-color: var(--text);
-  --link-color-hover: $love;
+  --accent-color: $love:rgb;
+  --accent-color-hover: $love:rgb_function/80;
+  --link-color: $pine;
+  --link-color-hover: $foam:rgb_function/80;
   --label-text-color: $text;
 
   --text: $text;
@@ -23,7 +23,7 @@
   --text-muted: $muted:hex_ns;
 
   /* Specials */
-  --arr-queue-color: $foam; /* Servarr apps + Bazarr */
+  --arr-queue-color: $pine; /* Servarr apps + Bazarr */
   --plex-poster-unwatched: $rose;
   --petio-spinner: invert(66%) sepia(15%) saturate(1451%) hue-rotate(185deg) brightness(105%) contrast(96%); /* Made with https://codepen.io/jsm91/embed/ZEEawyZ */ /* Blue */
   --gitea-color-primary-dark-4: var(--accent-color);

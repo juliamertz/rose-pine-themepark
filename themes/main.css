@@ -5,17 +5,17 @@
   --modal-header-color: #191724;
   --modal-footer-color: #191724;
 
-  --drop-down-menu-bg: #26233a;
+  --drop-down-menu-bg: #21202e;
 
-  --button-color: #26233a;
-  --button-color-hover: #403d52;
+  --button-color: #403d52;
+  --button-color-hover: #524f67;
   --button-text: var(--text);
   --button-text-hover: var(--text-hover);
 
-  --accent-color: 196, 167, 231;
-  --accent-color-hover: rgb(var(--accent-color), 0.8);
-  --link-color: var(--text);
-  --link-color-hover: #eb6f92;
+  --accent-color: 235, 111, 146;
+  --accent-color-hover: rgba(235, 111, 146, 0.8);
+  --link-color: #31748f;
+  --link-color-hover: rgba(156, 207, 216, 0.8);
   --label-text-color: #e0def4;
 
   --text: #e0def4;
@@ -23,7 +23,7 @@
   --text-muted: 6e6a86;
 
   /* Specials */
-  --arr-queue-color: #9ccfd8; /* Servarr apps + Bazarr */
+  --arr-queue-color: #31748f; /* Servarr apps + Bazarr */
   --plex-poster-unwatched: #ebbcba;
   --petio-spinner: invert(66%) sepia(15%) saturate(1451%) hue-rotate(185deg) brightness(105%) contrast(96%); /* Made with https://codepen.io/jsm91/embed/ZEEawyZ */ /* Blue */
   --gitea-color-primary-dark-4: var(--accent-color);

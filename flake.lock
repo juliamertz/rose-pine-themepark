@@ -73,11 +73,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1732142998,
-        "narHash": "sha256-C+Vrh0JYnAbsquEwvGojKxvhIgFHRc+lh1ZCc9Hqdd4=",
+        "lastModified": 1732146847,
+        "narHash": "sha256-BS6MPVIpWrHfkaSyU3sYvi1wD0oJBA5td2yCW9sjNaE=",
         "ref": "refs/heads/main",
-        "rev": "a5aa8282363959e870a5299c9c1e558705430676",
-        "revCount": 21,
+        "rev": "5d1b330a4e2a22a8f8be3cadbd693c1648d06d7c",
+        "revCount": 22,
         "type": "git",
         "url": "file:///home/julia/projects/2024/rose-pine-build-rs"
       },
